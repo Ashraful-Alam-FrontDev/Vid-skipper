@@ -5,18 +5,18 @@ This is a tempermonkey script that will allow you to fast forward or rewind any 
 Install Tampermonkey:
 
 Go to the Tampermonkey website.
+Click on the "Get from store" button for your browser.
 Click the "Add to Chrome" button in the top right corner.
 Click on "Add Extension".
 
 
 Add the script:
+
 go to the "https://github.com/Ashraful-Alam-FrontDev/Vid-skipper".
-Click on the userscript file (ending with ".user.js").
-Click the "Raw" button to view the raw script.
-Right-click anywhere on the page and select "Save As" to save the script to your computer.
+Click on the vid-skipper.js file and copy the code or fork the repository.
 Open Tampermonkey from your browser's extensions menu.
 Go to the "Dashboard" tab.
-Click on the "Utilities" tab.
-Click on "File" and select the userscript file you downloaded.
-Click on "Import" to add the script to Tampermonkey.
+Click on the + icon beside Installed Userscripts.
+Paste the code from the vid-skipper.js.
+Press ctrl+s or click on the file in the upper left corner and click save.
 
