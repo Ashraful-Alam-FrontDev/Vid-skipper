@@ -4,7 +4,7 @@ This is a tempermonkey script that will allow you to fast forward or rewind any 
 
 Install Tampermonkey:
 
-Go to the Tampermonkey website.
+Go to the Tampermonkey website.<br>
 Click on the "Get from store" button for your browser.
 Click the "Add to Chrome" button in the top right corner.
 Click on "Add Extension".
